@@ -12,4 +12,6 @@ https://1sfu-my.sharepoint.com/:u:/r/personal/dsp6_sfu_ca/Documents/Attachments/
 
 ## Running the app ##
 Enter in the terminal,
-`python3 app.py`
+```
+python3 app.py
+```
