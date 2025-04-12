@@ -15,3 +15,10 @@ Enter in the terminal,
 ```
 streamlit run app.py
 ```
+
+## Self-Evaluation
+Overall, our project achieved its primary goal of providing meaningful feedback on speech delivery through an AI-driven system. While some planned components were deferred or modified due to resource constraints. 
+
+We shifted from unsupervised clustering to supervised learning after observing limited variation in early datasets, ultimately combining CREMA-D, TED Talks, and SEP-28k datasets and introducing manual annotations to improve label quality. A Random Forest classifier was selected for its interpretability and strong performance. A significant portion of our time was spent in finding a good dataset to improve model accuracy. This effort should be considered when assessing our progress relative to the original plan. Despite challenges with clustering and dataset limitations, we adapted effectively by diversifying datasets, refining features, and improving labeling strategies.
+
+We view this project as a successful step toward creating an accessible tool for improving public speaking skills and are confident that it can be expanded further in future iterations.
